@@ -1,4 +1,4 @@
-# bmi_calculator
+# BMI Calculator
 A Flutter BMI App challenge by github.com/orgs/londonappbrewery. Multi screen app with simple functionality but full-on custom styling.
 
 ## What I learned
